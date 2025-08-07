@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ozerkali <ozerkali@student.42prague.com>  +#+  +:+       +#+        */
+/*   By: ozerkali <ozerkali@student.42prague.com>  +#+  +:+       +#+         */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/07 12:00:00 by ozerkali          #+#    #+#             */
 /*   Updated: 2025/08/07 12:00:00 by ozerkali         ###   ########.fr       */
